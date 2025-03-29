@@ -8,7 +8,8 @@ Founder of MEDkeen Solutions® | StilettoGeek in the Cloud | I’m rewriting the
 ---
 
 💡 **What I Do:**  
-I bridge healthcare, cloud, and AI to help organizations move faster and lead smarter—grounded in frontline experience, elevated by strategy.
+The playbook has changed. I create solutions that help organizations operate efficiently, adapt confidently, and lead forward.
+
 
 🛠️ **Current Focus:**  
 - AI in the cloud  
