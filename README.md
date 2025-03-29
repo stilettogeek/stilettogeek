@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to StilettoGeek 👠  
+*Where strategy meets technology—with heart, data, and bold thinking.*
 
-<!--
-**stilettogeek/stilettogeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Curated by Khalilah Filmore, Founder of [MEDkeen Solutions®](https://www.medkeensolutions.com)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **What I Do:**  
+I bridge healthcare, cloud, and AI to help organizations move faster and lead smarter—grounded in frontline experience, elevated by strategy.
+
+🛠️ **Current Focus:**  
+- AI in the cloud  
+- Informatics & big data  
+- Telehealth strategy  
+- GovCon innovation  
+- Workforce transformation
+
+📫 **Let’s Connect:**  
+- 🔗 [Substack](https://substack.com/@stilettogeek)
+- 💼 [MEDkeen Solutions®](https://www.medkeensolutions.com)  
+- 🧬 [ORCID](https://orcid.org/0009-0006-5743-3386) 
