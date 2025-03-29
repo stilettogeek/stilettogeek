@@ -1,7 +1,9 @@
 # Welcome to StilettoGeek 👠  
 *Where strategy meets technology—with heart, data, and bold thinking.*
 
-**Curated by Khalilah Filmore, Founder of [MEDkeen Solutions®](https://www.medkeensolutions.com)**
+**Curated by Khalilah Filmore**  
+Founder of MEDkeen Solutions® | StilettoGeek in the Cloud | I’m rewriting the playbook with AI, big data, and strategy; heels on, vision forward.
+
 
 ---
 
