@@ -3,7 +3,7 @@ Where behavioral insight, cloud strategy, and bold thinking drive real outcomes.
 
 **Curated by Khalilah Filmore**  
 Founder of MEDkeen Solutions® | StilettoGeek in the Cloud  
-*I’m rewriting the playbook with AI, big data, and strategy — heels on, vision forward.*
+*I’m rewriting the playbook with AI, big data, and strategy. Heels On, Vision Forward.*
 
 ---
 
