@@ -1,4 +1,4 @@
-# Welcome to Nurse Dev 👩‍⚕ 
+# Welcome to Nurse Dev 
 Where behavioral insight, cloud strategy, and bold thinking drive real outcomes.
 
 **Curated by Khalilah Filmore**  
