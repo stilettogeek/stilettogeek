@@ -9,6 +9,8 @@ Founder of MEDkeen Solutions® | StilettoGeek in the Cloud
 
 💡 **What I Do:**  
 The playbook has changed. I create solutions that help organizations operate efficiently, adapt confidently, and lead forward with analytics!
+So yes, I’m a nurse — and that lens shapes everything I build. From health to government to enterprise, I bridge clinical experience with innovation strategy.
+
 
 🛠️ **Current Focus Areas:**  
 - AI in the cloud  
