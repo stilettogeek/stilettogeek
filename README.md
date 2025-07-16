@@ -19,6 +19,16 @@ So yes, I’m a nurse and that lens shapes everything I build. From health to go
 - GovCon innovation  
 - Telehealth and readiness transformation
 
+
+📰 Featured Publication  
+**[Decentralized Defense: How Federated Learning Strengthens U.S. AI](https://www.afcea.org/signal-media/ai/decentralized-defense-how-federated-learning-strengthens-us-ai)**  
+Published in SIGNAL Magazine (AFCEA), June 2025  
+This article explores how federated learning supports responsible AI innovation in healthcare, defense, and other regulated sectors — with a focus on national security, GovCloud strategy, and decentralized data stewardship.
+
+📄 Also listed in my ORCID record:  
+[https://orcid.org/0009-0006-5743-3386](https://orcid.org/0009-0006-5743-3386)
+
+
 📫 **Let’s Connect:**  
 - 🌐 [NurseDev.com](https://www.nursedev.com)  
 - 💼 [MEDkeen Solutions®](https://www.medkeensolutions.com)  
