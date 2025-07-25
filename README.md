@@ -26,8 +26,6 @@ So yes, I’m a nurse and that lens shapes everything I build. From health to go
 📰 Featured Publication  
 **[Decentralized Defense: How Federated Learning Strengthens U.S. AI](https://www.afcea.org/signal-media/ai/decentralized-defense-how-federated-learning-strengthens-us-ai)**  
 Published in SIGNAL Magazine (AFCEA), June 2025  
-.
-
 
 📄 Also listed in my [ORCID record](https://orcid.org/0009-0006-5743-3386)
 
