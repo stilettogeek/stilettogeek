@@ -1,5 +1,7 @@
 # Welcome to Nurse Dev 
-Where behavioral insight, cloud strategy, and bold thinking drive real outcomes.
+Building systems that protect data, empower people, and move operations forward.
+
+
 
 **Curated by Khalilah Filmore**  
 Founder of MEDkeen Solutions® | StilettoGeek in the Cloud  
@@ -13,7 +15,8 @@ So yes, I’m a nurse and that lens shapes everything I build. From health to go
 
 
 🛠️ **Current Focus Areas:**  
-- AI in the cloud  
+- AI in the cloud
+- Federated learning and privacy-centered AI architecture 
 - Operational dashboards (METRICS™ by MEDkeen Solutions®)  
 - Behavioral nudges and strategic visibility  
 - GovCon innovation  
@@ -23,10 +26,10 @@ So yes, I’m a nurse and that lens shapes everything I build. From health to go
 📰 Featured Publication  
 **[Decentralized Defense: How Federated Learning Strengthens U.S. AI](https://www.afcea.org/signal-media/ai/decentralized-defense-how-federated-learning-strengthens-us-ai)**  
 Published in SIGNAL Magazine (AFCEA), June 2025  
-This article explores how federated learning supports responsible AI innovation in healthcare, defense, and other regulated sectors — with a focus on national security, GovCloud strategy, and decentralized data stewardship.
+.
 
-📄 Also listed in my ORCID record:  
-[https://orcid.org/0009-0006-5743-3386](https://orcid.org/0009-0006-5743-3386)
+
+📄 Also listed in my [ORCID record](https://orcid.org/0009-0006-5743-3386)
 
 
 📫 **Let’s Connect:**  
